@@ -1,0 +1,25 @@
+# Carpetas de compilación de Visual Studio
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+# Archivos del IDE
+.vs/
+*.suo
+CARRERA Ingeniería de Sistemas Computacionales
+DOCENTE Ing. Andres E. Araujo Acuña
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+# Archivos de Resharper / Rider
+_ReSharper*/
+*.[Rr]e[Ss]harper
+# Archivos temporales
+*.tmp
+*.swp
+*~
+# NuGet
+packages/
+*.nupkg
